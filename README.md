@@ -7,8 +7,15 @@
 
 ## ⏲ What i am doing now:
 I'm developing a project for my progress 🧍.
-
 <br />
+##  🤵🏼  A little more about me...:
+```erb                       
+const onur = {
+  pronouns: "he" | "his",
+  code: [Javascript, Hmtl, Css, Bootstrap],
+  tools: [React, Jquery],
+}
+```
 
 ### Connect with me:
 
