@@ -1,7 +1,7 @@
 ## I'm a Student 👨‍🎓, Full Stack Developer 🚀, Writer ✍ and Teacher 👨‍🎓!
 - 💻 I'm currently working on a VS Code
 - 🌱 I’m currently learning 😂
-- 🥅 2022 Goals: Taking the first step into a professional career 💻
+- 🥅 2022 Goals: Starting a professional carrier for the first time 💻
 - ⚡ Fun fact: I love to play football ⚽, play chess ♟, and play table tenis 🏓
 
 
