@@ -1,4 +1,4 @@
-## I'm a Student 👨‍🎓, Front End Developer 🚀!
+## I'm a Student everytime 👨‍🎓, Front End Developer 🚀!
 - 💻 I'm currently working on a VS Code
 - 🌱 I’m currently learning 😂
 - 🥅 2022 Goals: Starting a professional carrier for the first time 💻
